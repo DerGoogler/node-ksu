@@ -1,0 +1,35 @@
+{
+  "name": "node-ksu",
+  "version": "1.0.0",
+  "description": "KernelSU for Node.js",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "clean": "node-gyp clean",
+    "build": "node-gyp build",
+    "configure": "node-gyp configure"
+  },
+  "author": "Der_Googler",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  },
+    "keywords": [
+    "kernelsu",
+    "android",
+    "su",
+    "shell",
+    "superuser"
+  ],
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64",
+    "arm"
+  ]
+}
