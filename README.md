@@ -1,6 +1,6 @@
 # Node KernelSU
 
-I just got bored and wanna try this. Thanks to @HuskyDG to let notice that KernelSU has netive apis.
+I just got bored and wanna try this. Thanks to [@HuskyDG](https://github.com/HuskyDG ) to let notice that KernelSU has netive apis.
 
 ## Uhm
 
